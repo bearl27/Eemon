@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8625ba7056c7a486f8843d8dada49910
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FishSound: {fileID: 8300000, guid: 34d77e66936c34f7a9b8d9cc1549fc13, type: 3}
+  - Fish: {fileID: 9041789092339071075, guid: 125eb39b526944c51b380e59d3bcfea9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

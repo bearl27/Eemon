@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hyogo
+  - Osaka
+  - Bat
+  - Ground
+  - Nara
+  - Deer
+  - Ito
+  - Wakayama
+  - Kyoto
+  - nextTako
+  - Grabbale
+  - out10
+  - out20
+  - out30
+  - center50
+  - out40
+  - Shuriken
+  - Mie
+  - chawan
+  - Shika
+  - Home
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
